@@ -1,2 +1,3 @@
 # hello-world
-this is my repository 
+This is my repository 
+I am a fun loving husband and father. 
